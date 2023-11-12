@@ -1,0 +1,1 @@
+Esta carpeta contiene el trabajo_Sincrono del 18 de septiembre, el cual eran las 10 funciones del proyecto, se coloco dentro de trabajo en clase ya que este podia ser subido una vez se diera el visto bueno y a su vez en el aula virtual aparece como trabajo sincrono
